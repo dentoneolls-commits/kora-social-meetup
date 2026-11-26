@@ -1,0 +1,11 @@
+{
+  "name": "Kora social meetup",
+  "description": "Mobile-friendly 1-on-1 live video chat and messaging app with coin wallet, virtual gifts, and Paystack checkout stored locally in the browser.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
